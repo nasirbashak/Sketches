@@ -36,7 +36,7 @@ function Box(x,y){
   
   this.show = function(){
     
-    //stroke(this.c[0],this.c[1],this.c[2]);
+    stroke(this.c[0],this.c[1],this.c[2]);
     fill(this.c[0],this.c[1],this.c[2]);
 
     
