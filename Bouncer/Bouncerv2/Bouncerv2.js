@@ -18,7 +18,7 @@ function setup() {
 
 function draw() {
   
-  background(hu,255,255)
+  //background(hu,255,255)
   
   
     stroke(255)
